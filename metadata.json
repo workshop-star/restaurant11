@@ -1,0 +1,6 @@
+{
+  "name": "SKB Family Restaurant",
+  "description": "Visit SKB Family Restaurant in Angara, Ranchi, Jharkhand. Discover a welcoming family dining experience and contact us at 09798832616.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
